@@ -1,16 +1,34 @@
-## Hi there 👋
+Sahil Raj
+Cybersecurity | Backend Development | Secure Systems
 
-<!--
-**sahilraj-26/sahilraj-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 About Me
+I'm a BCA graduate interested in Cybersecurity and Secure Software Engineering.
 
-Here are some ideas to get you started:
+🔐 Cybersecurity
+• Authentication & Authorization
+• Network Security
+• Vulnerability Assessment
+• Secure API Design
+• TLS/mTLS
+• Security Monitoring
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Technical Stack
+Go | Flutter | PostgreSQL | gRPC | Linux | Git | Docker
+
+🚀 Featured Projects
+
+🔐 Secure Robot Authentication Platform
+Go + gRPC + PostgreSQL + mTLS
+• Temporary credential system
+• Robot authentication
+• Credential expiration
+• Audit logging
+• Secure communication
+
+🛡️ Security Projects
+• VAPT Lab
+• SIEM / Log Monitoring
+• Network Security Analysis
+
+📫 Connect
+LinkedIn | Email | Resume
